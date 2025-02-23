@@ -1,0 +1,3 @@
+com\SCAD_lab04_RestAPI\controller\BookController.class
+com\SCAD_lab04_RestAPI\entity\Book.class
+com\SCAD_lab04_RestAPI\RestApiProjectApplication.class
